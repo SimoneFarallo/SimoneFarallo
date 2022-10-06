@@ -1,4 +1,4 @@
-# github.profile.io
+
 <h1 align="center">Hi 👋, I'm Simone Farallo</h1>
 <h3 align="center">A Data Science student with background in statistics from ITaly</h3>
 
