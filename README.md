@@ -1,5 +1,5 @@
-<h1 align="center">Hello 👋</h1>
-<h3 align="center">I am a Data Science Student</h3>
+<h1 align="center">Hello, I am a Data Science Student</h1>👋
+
 
 
 My name is **Simone Farallo** and I'm currently pursing a Master's Degree in **Data Science** at University of Milano-Bicocca.
