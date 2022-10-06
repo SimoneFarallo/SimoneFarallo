@@ -1,6 +1,6 @@
 # github.profile.io
 <h1 align="center">Hi 👋, I'm Simone Farallo</h1>
-<h3 align="center">A Data Science student with background in statistics from ITaly</h3>
+<h3 align="center">A Data Science student with background in statistics from Italy</h3>
 
 <p align="left"> <a href="https://twitter.com/@simonefara" target="blank"><img src="https://img.shields.io/twitter/follow/@simonefara?logo=twitter&style=for-the-badge" alt="@simonefara" /></a> </p>
 
