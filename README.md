@@ -4,7 +4,7 @@ My name is Simone Farallo and I'm currently pursing a Master's Degree in Data Sc
 I'm from Italy, living in Milan. You can find me on LinkedIn.
 
 My name is Simone Farallo and I'm currently pursing a Master's Degree in Data Science at University of Milano-Bicocca.
-I'm from Italy, living in Milan. You can find me on LinkedIn.<a href="https://linkedin.com/in/in/simone-farallo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/simone-farallo" height="30" width="40" />
+I'm from Italy, living in Milan. You can find me on LinkedIn.<a href="https://linkedin.com/in/in/simone-farallo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/simone-farallo" height="20" width="30" />
 
 <h1 align="center">Hi 👋, I'm Simone Farallo</h1>
 <h3 align="center">Data Science Student</h3>
