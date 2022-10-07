@@ -3,6 +3,7 @@
 
 
 My name is **Simone Farallo** and I'm currently pursing a Master's Degree in **Data Science** at University of Milano-Bicocca.
+
 I'm from Italy and now living in Milan. All of my projects are available **here**.👨‍💻 
 
 - 🌱 I’m currently studying **Text Mining, Time Series Management & Business Intelligence**.
