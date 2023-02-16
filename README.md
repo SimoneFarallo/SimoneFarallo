@@ -32,7 +32,7 @@ I'm from Italy and now living in Milan. All of my projects are available **here*
 ![](https://img.shields.io/badge/Tools-Protegè-informational?tyle=flat&color=2bbc8a)
 
 ![](https://img.shields.io/badge/DB-Sqlite-informational?style=flat&logo=sqlite&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/DB-mongodb-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DB-Mongodb-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DB-Neo4j-informational?style=flat&logo=neo4j&logoColor=white&color=2bbc8a)
 
 
