@@ -46,6 +46,8 @@ I'm from Italy and now living in Milan. All of my projects are available **here*
 
 
 
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simonefarallo&show_icons=true&locale=en&layout=compact" alt="simonefarallo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simonefarallo&show_icons=true&locale=en" alt="simonefarallo" /></p>
