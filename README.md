@@ -21,8 +21,6 @@ I'm from Italy and now living in Milan. All of my projects are available **here*
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=green)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat&logo=latex&logoColor=white)
 
 **Editors**
