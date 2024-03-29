@@ -1,8 +1,8 @@
-<h1 align="center">Hello, I am a Data Science Student👋</h1>
+<h1 align="center">Hello, I am Junior Data Scientist👋</h1>
 
 
 
-My name is **Simone Farallo** and I'm currently pursing a Master's Degree in **Data Science** at University of Milano-Bicocca.
+My name is **Simone Farallo** and I have a bachelor's degree in Statistical Science and a master's degree in Data Science.
 
 I'm from Italy and now living in Milan. All of my projects are available **here**.👨‍💻 
 
