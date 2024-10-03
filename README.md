@@ -4,6 +4,8 @@
 
 My name is **Simone Farallo** and I have a bachelor's degree in Statistical Science and a master's degree in Data Science.
 
+I currently work as a **Data Scientist** at Be - Shaping the Future.
+
 I'm from Italy and now living in Milan. All of my projects are available **here**.👨‍💻 
 
 - 📫 How to reach me **simonefarallo@gmail.com**
