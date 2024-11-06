@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I am Junior Data Scientist👋</h1>
+<h1 align="center">Hello, I am Data Scientist👋</h1>
 
 
 
