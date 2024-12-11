@@ -44,5 +44,5 @@ I'm from Italy and now living in Milan. All of my projects are available **here*
 ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 
-
+**NB. I am not a computer scientist and many codes were made during university, I use programming languages to analyse data!**
 
