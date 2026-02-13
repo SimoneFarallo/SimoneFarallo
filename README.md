@@ -146,6 +146,4 @@ I'm always interested in discussing AI, NLP, and data science projects!
   <i>⚡ "Creating intelligent systems that bridge the gap between data and decision-making and automate and accelerate processes"</i>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TUOUSERNAME&color=blueviolet&style=plastic&label=Profile+Views" alt="Profile views" />
-</p>
+
