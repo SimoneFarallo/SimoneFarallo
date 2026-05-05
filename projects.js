@@ -4,7 +4,7 @@
     description:
       "End-to-end real estate demo project with dedicated frontend and backend components.",
     repoUrl: "https://github.com/SimoneFarallo/demo_immobiliare",
-    frontendUrl: "https://simonefarallo.github.io/demo_immobiliare/"
+    frontendUrl: "https://demo-immobiliare.onrender.com/"
   }
 ];
 
@@ -58,3 +58,4 @@ function renderProjects() {
 }
 
 renderProjects();
+
