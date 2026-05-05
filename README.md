@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Simone Farallo</h1>
+﻿<h1 align="center">👋 Hi, I'm Simone Farallo</h1>
 <h3 align="center">Data Scientist | AI Developer | NLP & Generative AI</h3>
 
 <p align="center">
@@ -21,6 +21,16 @@
 - 🤖 Develop **AI Agents** and **Generative AI workflows**
 - 🔍 Data analysis
 - 📊 Machine learning and statistical models analysis
+
+---
+
+## 🌐 Portfolio Website
+
+<p align="center">
+  <a href="https://simonefarallo.github.io/SimoneFarallo/">
+    <img src="https://img.shields.io/badge/View-My_Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View My Portfolio"/>
+  </a>
+</p>
 
 ---
 
