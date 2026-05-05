@@ -1,32 +1,60 @@
-﻿const user = "SimoneFarallo";
+﻿const projects = [
+  {
+    title: "demo_immobiliare",
+    description:
+      "End-to-end real estate demo project with dedicated frontend and backend components.",
+    repoUrl: "https://github.com/SimoneFarallo/demo_immobiliare",
+    frontendUrl: "https://simonefarallo.github.io/demo_immobiliare/"
+  }
+];
+
 const box = document.getElementById("projects");
 const status = document.getElementById("status");
 
-async function load() {
-  try {
-    const res = await fetch(`https://api.github.com/users/${user}/repos?sort=updated&per_page=100`);
-    if (!res.ok) throw new Error("API error");
-    const repos = (await res.json()).filter(r => !r.fork && !r.archived).slice(0, 30);
+function renderProjects() {
+  if (!projects.length) {
+    status.textContent = "No projects added yet.";
+    return;
+  }
 
-    if (!repos.length) {
-      status.textContent = "No repositories found.";
-      return;
+  projects.forEach((project) => {
+    const card = document.createElement("article");
+    card.className = "project";
+
+    const title = document.createElement("h3");
+    title.textContent = project.title;
+
+    const desc = document.createElement("p");
+    desc.textContent = project.description;
+
+    const links = document.createElement("div");
+    links.className = "project-links";
+
+    const repoLink = document.createElement("a");
+    repoLink.className = "project-link";
+    repoLink.href = project.repoUrl;
+    repoLink.target = "_blank";
+    repoLink.rel = "noopener noreferrer";
+    repoLink.textContent = "Repository";
+    links.appendChild(repoLink);
+
+    if (project.frontendUrl) {
+      const feLink = document.createElement("a");
+      feLink.className = "project-link";
+      feLink.href = project.frontendUrl;
+      feLink.target = "_blank";
+      feLink.rel = "noopener noreferrer";
+      feLink.textContent = "Frontend Demo";
+      links.appendChild(feLink);
     }
 
-    repos.forEach(r => {
-      const a = document.createElement("a");
-      a.className = "repo";
-      a.href = r.html_url;
-      a.target = "_blank";
-      a.rel = "noopener noreferrer";
-      a.innerHTML = `<strong>${r.name}</strong><p>${r.description || "No description yet."}</p>`;
-      box.appendChild(a);
-    });
+    card.appendChild(title);
+    card.appendChild(desc);
+    card.appendChild(links);
+    box.appendChild(card);
+  });
 
-    status.textContent = `Showing ${repos.length} repositories.`;
-  } catch {
-    status.textContent = "Could not load repositories right now.";
-  }
+  status.textContent = `Showing ${projects.length} selected project.`;
 }
 
-load();
+renderProjects();
