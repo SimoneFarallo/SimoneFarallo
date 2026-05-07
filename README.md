@@ -22,17 +22,6 @@
 - 🔍 Data analysis
 - 📊 Machine learning and statistical models analysis
 
----
-
-## 🌐 Portfolio Website
-
-<p align="center">
-  <a href="https://simonefarallo.github.io/SimoneFarallo/">
-    <img src="https://img.shields.io/badge/View-My_Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View My Portfolio"/>
-  </a>
-</p>
-
----
 
 ## 🛠️ Tech Stack
 
